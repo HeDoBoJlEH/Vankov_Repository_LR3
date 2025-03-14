@@ -31,7 +31,7 @@ void EnterA()
 // Function to set value of variable "b"
 void EnterB()
 {
-    // Must be developed by Ivanov I. I.
+    b = CorrectInt("Enter value \"b\": ");
 }
 
 // Function to sum up variables "a" and "b"
