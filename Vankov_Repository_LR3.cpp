@@ -43,7 +43,7 @@ void ExecutePlus()
 // Function to minus variables "a" and "b"
 void ExecuteMinus()
 {
-    // Must be developed by Tarakanov T. T.
+    cout << "\"a\" minus \"b\": " << a - b << endl;
 }
 
 int main()
