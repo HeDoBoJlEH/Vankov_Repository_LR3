@@ -25,7 +25,7 @@ int CorrectInt(string message, int leftBorder=INT_MIN, int rightBorder=INT_MAX)
 // Function to set value of variable "a"
 void EnterA()
 {
-    // Must be developed by Petrov P. P.
+    a = CorrectInt("Enter value \"a\": ");
 }
 
 // Function to set value of variable "b"
