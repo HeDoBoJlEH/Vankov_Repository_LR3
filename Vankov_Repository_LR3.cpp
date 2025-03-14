@@ -37,7 +37,7 @@ void EnterB()
 // Function to sum up variables "a" and "b"
 void ExecutePlus()
 {
-    // Must be developed by Kuznetsov K. K.
+    cout << "Sum of \"a\" and \"b\": " << a + b << endl;
 }
 
 // Function to minus variables "a" and "b"
